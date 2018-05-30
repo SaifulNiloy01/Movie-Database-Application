@@ -36,7 +36,6 @@ C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\Microsoft.AI.Dependenc
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.xml
-C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
