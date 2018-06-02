@@ -43,3 +43,8 @@ C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\EntityFramework.dll
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\EntityFramework.xml
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initital.resources
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataChange.resources
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataChange2.resources
