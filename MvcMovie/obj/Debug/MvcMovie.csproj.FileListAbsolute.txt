@@ -48,3 +48,5 @@ C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataChange.resources
 C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataChange2.resources
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\24-05-18\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
